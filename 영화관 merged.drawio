@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T09:18:10.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="aFuefl1Hkk52ym61xSEl" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T09:18:40.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="LiyeSB2QzYTFBvqhhAJU" version="15.5.4" type="github">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="Page-1">
     <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -159,7 +159,7 @@
         <mxCell id="WYWjUhm8YObNl2KhzV3R-51" value="매장 ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-49">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WYWjUhm8YObNl2KhzV3R-52" value="영화 번호" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-49">
+        <mxCell id="WYWjUhm8YObNl2KhzV3R-52" value="영화 ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-49">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-53" value="상영관 이름" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-49">
@@ -168,11 +168,6 @@
         <mxCell id="WYWjUhm8YObNl2KhzV3R-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WYWjUhm8YObNl2KhzV3R-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="489" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WYWjUhm8YObNl2KhzV3R-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.806;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WYWjUhm8YObNl2KhzV3R-66" target="WYWjUhm8YObNl2KhzV3R-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1189.9999999999995" y="235" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-56" value="결제" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -295,6 +290,9 @@
               <mxPoint x="1470" y="135" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WYWjUhm8YObNl2KhzV3R-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYWjUhm8YObNl2KhzV3R-63" target="WYWjUhm8YObNl2KhzV3R-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
