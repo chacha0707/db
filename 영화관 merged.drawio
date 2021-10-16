@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T16:23:10.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="LuI9O46Sndc5a4Xkd84F" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T16:30:33.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="X9rGmIqnKyJG2_bcJEcY" version="15.5.4" type="github">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="Page-1">
     <mxGraphModel dx="2028" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -422,7 +422,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gwUpILcomhVhb_27Gu5M-5" value="물품" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="1077" width="140" height="150" as="geometry" />
+          <mxGeometry x="1640" y="1089.5" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gwUpILcomhVhb_27Gu5M-6" value="물품ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gwUpILcomhVhb_27Gu5M-5" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -435,6 +435,9 @@
         </mxCell>
         <mxCell id="gwUpILcomhVhb_27Gu5M-9" value="가격" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gwUpILcomhVhb_27Gu5M-5" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYn8s6rL9KZJxP9xYm8o-1" value="부서에 푸드코트를 넣는것은?" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
