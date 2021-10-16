@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T09:18:55.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="02DXkPIoO160wLR_NdZQ" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T09:19:14.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="l7RdA_0z4pj5szd-PQgQ" version="15.5.4" type="github">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="Page-1">
     <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="WYWjUhm8YObNl2KhzV3R-2" value="결제 번호" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WYWjUhm8YObNl2KhzV3R-3" value="환불  방법" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-1">
+        <mxCell id="WYWjUhm8YObNl2KhzV3R-3" value="환불 방법" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-4" value="예약" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
