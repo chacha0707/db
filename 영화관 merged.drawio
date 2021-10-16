@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T09:27:09.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="3pngN8Y-aMeX_XM270hJ" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T09:29:20.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="OjjHD8ReKmI_xTZIu1MC" version="15.5.4" type="github">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="Page-1">
     <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="WYWjUhm8YObNl2KhzV3R-17" value="영화 이름" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-15">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WYWjUhm8YObNl2KhzV3R-18" value="영화 등급" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-15">
+        <mxCell id="WYWjUhm8YObNl2KhzV3R-18" value="상영 등급" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-15">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-19" value="감독" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-15">
@@ -262,13 +262,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1820" y="622" as="sourcePoint" />
             <mxPoint x="1860" y="492" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1810" y="600" />
+              <mxPoint x="1820" y="710" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYWjUhm8YObNl2KhzV3R-84" target="WYWjUhm8YObNl2KhzV3R-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1840" y="1062" />
-              <mxPoint x="1840" y="872" />
+              <mxPoint x="1870" y="1062" />
+              <mxPoint x="1870" y="872" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -281,10 +285,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYWjUhm8YObNl2KhzV3R-63" target="WYWjUhm8YObNl2KhzV3R-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="482" />
+              <mxPoint x="1610" y="512" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WYWjUhm8YObNl2KhzV3R-16" target="WYWjUhm8YObNl2KhzV3R-52">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="722" />
+              <mxPoint x="1260" y="542" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
