@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T09:34:35.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="O6_lfXH5dIELEJapqhjo" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T09:35:37.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="yvbOjdi_hdYrkn-4vWec" version="15.5.4" type="github">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="Page-1">
     <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-62" value="매장" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="437" width="140" height="240" as="geometry" />
+          <mxGeometry x="1640" y="437" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-63" value="매장 ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-62">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -195,12 +195,6 @@
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-68" value="전화번호" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-62">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WYWjUhm8YObNl2KhzV3R-70" value="이벤트" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-62">
-          <mxGeometry y="180" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WYWjUhm8YObNl2KhzV3R-71" value="특별관 종류" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="WYWjUhm8YObNl2KhzV3R-62">
-          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-72" value="직원" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="1900" y="677" width="140" height="270" as="geometry" />
