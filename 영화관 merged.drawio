@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T14:48:09.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="afrDTjMUdHpJC8H-oyu1" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T14:48:25.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="djIpmiEa4qGli2qbDXi_" version="15.5.4" type="github">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="Page-1">
     <mxGraphModel dx="1662" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -392,7 +392,7 @@
         <mxCell id="cKguODEbhtYFb7qhuA4d-3" value="쿠폰 이름" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="cKguODEbhtYFb7qhuA4d-1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cKguODEbhtYFb7qhuA4d-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RoAabJP-WERvAbmFDm9a-15" target="cKguODEbhtYFb7qhuA4d-5">
+        <mxCell id="cKguODEbhtYFb7qhuA4d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKguODEbhtYFb7qhuA4d-5" target="RoAabJP-WERvAbmFDm9a-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
