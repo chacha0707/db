@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T07:52:25.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47" etag="erDKLZb2gZV0h40UUpiT" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T07:55:19.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.47" etag="fzhq5zqDOj_y-WYOE5s2" version="15.5.4" type="github">
   <diagram id="IrTPVVC-4FahDgtX1ePc" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="uesPVJ-ZvslY2pOsEO4A-60" value="출연 배우" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="uesPVJ-ZvslY2pOsEO4A-1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uesPVJ-ZvslY2pOsEO4A-50" value="내용" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="uesPVJ-ZvslY2pOsEO4A-1">
+        <mxCell id="uesPVJ-ZvslY2pOsEO4A-50" value="장르" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="uesPVJ-ZvslY2pOsEO4A-1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uesPVJ-ZvslY2pOsEO4A-9" value="가격" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="uesPVJ-ZvslY2pOsEO4A-1">
