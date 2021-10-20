@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T07:25:07.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-zepOXdsHSyex8kADj1q" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-20T07:38:06.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="qN6RsnXqY3y_bSC_BGQ9" version="15.5.6" type="github" pages="2">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="E-R">
     <mxGraphModel dx="2374" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eux5ETpcmqmiEMaok0SH-46" value="카드" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="570" width="140" height="90" as="geometry" />
+          <mxGeometry x="1470" y="570" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eux5ETpcmqmiEMaok0SH-47" value="카드 번호" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="eux5ETpcmqmiEMaok0SH-46" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -575,7 +575,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o4JPERYct8yEn4MppSKi-7" value="결제내역" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="720" width="140" height="150" as="geometry" />
+          <mxGeometry x="860" y="720" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="o4JPERYct8yEn4MppSKi-9" value="결제 번호" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="o4JPERYct8yEn4MppSKi-7">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -586,8 +586,11 @@
         <mxCell id="o4JPERYct8yEn4MppSKi-10" value="결제 금액" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="o4JPERYct8yEn4MppSKi-7">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o4JPERYct8yEn4MppSKi-11" value="결제 방법" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="o4JPERYct8yEn4MppSKi-7">
+        <mxCell id="3m0YeJqMSCZppq5FuRip-1" value="결제 날짜" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="o4JPERYct8yEn4MppSKi-7">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o4JPERYct8yEn4MppSKi-11" value="결제 방법" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="o4JPERYct8yEn4MppSKi-7">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o4JPERYct8yEn4MppSKi-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o4JPERYct8yEn4MppSKi-1" target="WYWjUhm8YObNl2KhzV3R-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
