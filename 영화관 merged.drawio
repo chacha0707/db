@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T23:53:43.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="IfQH2jJcNSQf-ijj765q" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-20T23:54:15.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="83XddyXdvcXp-LiwDZN4" version="15.5.6" type="github" pages="2">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="E-R">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -339,7 +339,7 @@
         <mxCell id="eux5ETpcmqmiEMaok0SH-51" value="소유" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="1095" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eux5ETpcmqmiEMaok0SH-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="eux5ETpcmqmiEMaok0SH-51" edge="1">
+        <mxCell id="eux5ETpcmqmiEMaok0SH-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eux5ETpcmqmiEMaok0SH-51" edge="1" target="eux5ETpcmqmiEMaok0SH-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="890" as="sourcePoint" />
             <mxPoint x="1060" y="1060" as="targetPoint" />
