@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T07:17:11.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="UsYBAXlPY30ibwA3Ujtk" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-20T07:18:31.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="fc0s3GtEDSTYiA7YQ1Am" version="15.5.6" type="github" pages="2">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="E-R">
-    <mxGraphModel dx="1662" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2770" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,12 +325,6 @@
         <mxCell id="eux5ETpcmqmiEMaok0SH-63" value="주차 요금 규정" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="eux5ETpcmqmiEMaok0SH-8" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eux5ETpcmqmiEMaok0SH-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.014;entryY=0.871;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WYWjUhm8YObNl2KhzV3R-25" target="RoAabJP-WERvAbmFDm9a-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1270" y="960" as="sourcePoint" />
-            <mxPoint x="1320" y="910" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eux5ETpcmqmiEMaok0SH-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WYWjUhm8YObNl2KhzV3R-25" target="WYWjUhm8YObNl2KhzV3R-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1510" y="950" as="sourcePoint" />
@@ -569,6 +563,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2130" y="1510" as="sourcePoint" />
             <mxPoint x="2180" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o4JPERYct8yEn4MppSKi-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5;entryX=1.007;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WYWjUhm8YObNl2KhzV3R-25" target="RoAabJP-WERvAbmFDm9a-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280.8400000000001" y="789.67" as="sourcePoint" />
+            <mxPoint x="1280" y="729.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
