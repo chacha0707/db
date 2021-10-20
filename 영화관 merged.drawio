@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T10:05:36.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="mEyedYU9uJFDTE5RqzXi" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-20T10:05:50.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="L-Us-at8p8YYLfLFjGcW" version="15.5.6" type="github" pages="2">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="E-R">
     <mxGraphModel dx="1955" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-25" value="예매" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="970" y="790" width="80" height="55" as="geometry" />
+          <mxGeometry x="979" y="790" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="WYWjUhm8YObNl2KhzV3R-35" value="취소" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="760" y="490" width="80" height="55" as="geometry" />
