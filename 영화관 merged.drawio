@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T23:54:15.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="83XddyXdvcXp-LiwDZN4" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T07:21:47.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="lD-tJ4R_C0VlqUbkg3WK" version="15.5.6" type="github" pages="2">
   <diagram id="wl7NIfgXZob2GiVpN4U7" name="E-R">
-    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2770" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,7 +339,7 @@
         <mxCell id="eux5ETpcmqmiEMaok0SH-51" value="소유" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="1095" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="eux5ETpcmqmiEMaok0SH-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eux5ETpcmqmiEMaok0SH-51" edge="1" target="eux5ETpcmqmiEMaok0SH-2">
+        <mxCell id="eux5ETpcmqmiEMaok0SH-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eux5ETpcmqmiEMaok0SH-51" target="eux5ETpcmqmiEMaok0SH-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="890" as="sourcePoint" />
             <mxPoint x="1060" y="1060" as="targetPoint" />
@@ -477,7 +477,7 @@
             <mxPoint x="1360" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qv-FmLyA0oH0V-novtGH-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.727;entryY=1.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WYWjUhm8YObNl2KhzV3R-25" edge="1" target="0jpGqaHGPof7GPKdyG1Q-5">
+        <mxCell id="Qv-FmLyA0oH0V-novtGH-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.727;entryY=1.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WYWjUhm8YObNl2KhzV3R-25" target="0jpGqaHGPof7GPKdyG1Q-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="780" as="sourcePoint" />
             <mxPoint x="1050" y="730" as="targetPoint" />
@@ -500,9 +500,6 @@
             <mxPoint x="2127" y="250" as="sourcePoint" />
             <mxPoint x="2030" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-Y8-KztrH-_23FmOSGy3-1" value="&lt;br&gt;&lt;br&gt;상영관 + 영화 + 매장의&amp;nbsp; 관계로&amp;nbsp;&lt;br&gt;상영중인 영화 테이블을 만들면&lt;br&gt;어떨까...?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="1710" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yif0Wcix96Lz_UaRE6Wn-16" value="포함" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1389" y="440" width="80" height="40" as="geometry" />
